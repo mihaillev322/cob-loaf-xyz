@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cob-loaf.xyz/sitemap.xml
